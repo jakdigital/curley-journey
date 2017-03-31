@@ -5,11 +5,11 @@ collections:
   blog:
     title: Blog
     output: true
+  portfolio:
+    title: Portfolio
+    output: true
   uploads:
     title: Uploads
-    output: true
-  work:
-    title: Work
     output: true
 defaults:
 - scope:
