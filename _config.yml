@@ -7,7 +7,7 @@ collections:
     output: true
   portfolio:
     title: Portfolio
-    output: true
+    output: false
     permalink: portfolio
   uploads:
     title: Uploads
